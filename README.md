@@ -1,5 +1,9 @@
-# realsense_ros
+## realsense_ros
 
-chmod +x install_realsense.sh
-export WORKSPACE=<your_ros_workspace>
-./install_realsense.sh
+# Installation
+
+run
+
+		chmod +x install_realsense.sh
+		export WORKSPACE=<your_ros_workspace>
+        ./install_realsense.sh
