@@ -1,5 +1,7 @@
 ## realsense_ros
 
+verified on the Ubuntu 14.04.5 and 16.04 with ROS indigo and kinetic respectively.
+
 # Installation
 
 run
